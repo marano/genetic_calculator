@@ -1,4 +1,4 @@
-Genetic Calculator Tabajara
+<h1>Genetic Calculator Tabajara</h1>
 
 Hello!
 
@@ -6,4 +6,4 @@ This project aims AI students who seek to learn more about genetic algorithms ha
 Excercices to be solved may be implemented at the code by extending the basics gen and aptitude function classes. If it doesn fit your needs feel free to change the code, making it even more generic, and submit it.
 This projects stands as a generic structure to solve genetic algorithms excercices and watch it at a graphical user interface where you can adjust the genetics process by manipulating some common parameters.
 
-Maranos
+Marano
